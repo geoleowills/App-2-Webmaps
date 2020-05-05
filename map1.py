@@ -1,7 +1,3 @@
-# tiles = "Mapbox Bright"
-# instead use
-# tiles = "Stamen Terrain"
-
 import folium
 import pandas
 
